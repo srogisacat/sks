@@ -1,13 +1,13 @@
 # **EaglercraftX-1.8.9**
-This is the HTML for EaglercraftX (Minecraft 1.8.9), as of 12/02/22
-<br>**THIS IS NOT MINE, IT WAS CODED BY AYUNAMI2000.**<br>
-Also, don't bug me about bugs or anything, because I don't know tons of coding languages and I've only taken 3 classes.
-<br>I will keep updating this until an official EaglercraftX repo is created.<br>
-<ul>most servers are currently unavailable, as they're being updated to 1.8<ul>
-<ul>Singleplayer is also unavailable<ul>
+This is the HTML for EaglercraftX RESENT CLIENT (Minecraft 1.8.8) as of 1/12/23
+<br>**THIS IS NOT MINE**<br>
+Also, don't bug me about bugs or anything, because I don't know tons of coding languages and I've only taken 4 classes.
+<br>An official repo for Lax1dude's EaglercraftX has been created, but I will still upload Resent Client..<br>
+<ul>Singleplayer is unavailable, and I can't do anything about it.<ul>
 
 **Links**
 <br>https://eggler.vercel.app
+<br>https://rescleint.vercel.app
 
 
 
